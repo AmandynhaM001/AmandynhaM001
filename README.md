@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="lazy"   img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /><img loading="lazy"   img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40" /> <img loading="lazy"   img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40" /> <img loading="lazy"   img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="40" height="40" /> <img loading="lazy"   img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" /> <img loading="lazy"   img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" /> <img loading="lazy"   img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" />
 
-![Image](https://github.com/user-attachments/assets/a433cdd0-79be-4e23-a8aa-68004b08aeda)
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a433cdd0-79be-4e23-a8aa-68004b08aeda" width="700px" />
+</div>
+
+
           
 
